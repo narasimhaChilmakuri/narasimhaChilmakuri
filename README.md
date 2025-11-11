@@ -67,29 +67,68 @@ I love debugging complex systems and optimizing slow queries – and yes, I’m 
 
 ---
 
-<h2 align="center">🛠️ Languages</h2> 
+<h2 align="center">⚙️ Tech Stack</h2>
+
 <p align="center">
-<img width="600px" src="https://skillicons.dev/icons?i=java,cpp,js,html,css,ts,mysql,mongodb,redis&perline=10"/>
+  <i>💻 Backend | 🎨 Frontend | 🗄️ Databases | ⚙️ DevOps | 🔍 Observability | 🧰 Tools</i>
 </p>
 
-<h2 align="center">⚙️ Tools & Technologies</h2> 
-<table width="100%" align="center">
-<tr>
-<td>
-<p align="center">
-<img width="250px" src="https://skillicons.dev/icons?i=spring,react,nodejs,express,docker,git&perline=3" />
-</p>
-</td>
-<td>
-<p align="center">
-<img width="250px" src="https://skillicons.dev/icons?i=postman,vscode,idea,netlify,vercel&perline=3"  />
-</p>
-</td>
-</tr>
-</table>
 <br/>
 
+<h4 align="center">💻 Backend & Frontend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+<h4 align="center">🗄️ Databases</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+<h4 align="center">⚙️ DevOps & Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+<h4 align="center">🔍 Observability & Monitoring</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logstash-F2BD1D?style=for-the-badge&logo=logstash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-EA4E8B?style=for-the-badge&logo=kibana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zipkin-orange?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafbat%20UI-0078D7?style=for-the-badge&logo=apacherocketmq&logoColor=white"/>
+</p>
+
+<h4 align="center">🧰 Utilities & Misc</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+</p>
+
 ---
+
+
+
+
+
 
 ## 🚀 Projects
 
