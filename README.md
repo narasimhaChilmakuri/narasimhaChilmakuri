@@ -192,5 +192,5 @@ I love debugging complex systems and optimizing slow queries – and yes, I’m 
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kraniket901&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kraniket901" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=narasimhaChilmakuri&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kraniket901" style="padding-right:20px;" />
 </p>
